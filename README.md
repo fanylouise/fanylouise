@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fanylouise
-- 👀 I’m interested in animes, livros, jogos, música, plantas, animais
-- 🌱 I’m currently learning HTML, CSS, JS ...
-- 📫 How to reach me: gandra.fany@gmail.com
+- 👀 I’m interested in learn
+- 🌱 I’m currently learning HTML, CSS, JS, PHP...
+- 📫 How to reach me: https://www.linkedin.com/in/fany-louise-000075217/
 
 <!---
 fanylouise/fanylouise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
