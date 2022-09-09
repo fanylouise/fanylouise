@@ -4,7 +4,7 @@
 
   <p align="left">🌱 I’m currently learning **JS, React**</p>
 
-<p align="left">👨‍💻 Some of my projects on https://fanylouise.netlify.app/</p>
+<p align="left">👨‍💻 Portifolio  https://fanylouise.netlify.app/</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
