@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 
-  <p align="left">🌱 I’m currently learning **JS, React**</p>
+  <p align="left">🌱 I’m currently learning     Javascript and ReactJS </p>
 
 <p align="left">👨‍💻 Portifolio  https://fanylouise.netlify.app/</p>
 
