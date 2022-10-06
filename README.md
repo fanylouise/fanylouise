@@ -1,9 +1,7 @@
-<div align="center">
-<img src="https://giphy.com/gifs/impulsevent-event-agentur-impuls-f8XGwZd37sTOuFTZmy" align="center" style="width: 250px"  height='180px'/>
-</div>  
-  
-
-### <div align="center">I'm Fany, a frontend  developer, interested in programming since 2015💭</div>  
+<hr>
+<h1 align='center'>Hello, Welcome 🐣<h1> 
+<hr>
+<div align="center">I'm Fany, a frontend  developer, interested in programming since 2015💭</div>  
   
 
 **🌱 I’m currently learning React and Python**  
@@ -33,16 +31,8 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
+</td>
+</table>
 <br/>  
 
 
@@ -70,8 +60,5 @@
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=22ifeezucijuktwej3lsre6dq&cover_image=true&theme=default&show_offline=false&bar_color_cover=false" /></div>
 <br />
-
-<img src="https://media.giphy.com/media/cnhpl4IeYgU7MCBdV2/giphy.gif" align="center" style="width: 290px"  height='180px'/>
-
-----
+<hr>
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
