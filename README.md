@@ -3,7 +3,7 @@
 <hr>
 <div align="center">I'm Fany, a frontend  developer, interested in programming since 2015💭</div>  
   
-
+<br>
 **🌱 I’m currently learning React and Python**  
   
 
@@ -58,7 +58,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=22ifeezucijuktwej3lsre6dq&cover_image=true&theme=default&show_offline=false&bar_color_cover=false" /></div>
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=22ifeezucijuktwej3lsre6dq&cover_image=true&theme=default&show_offline=false&bar_color_cover=false"  height='250px' width='200'/></div>
 <br />
 <hr>
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
