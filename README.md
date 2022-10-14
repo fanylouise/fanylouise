@@ -4,10 +4,10 @@
 <div align="center">I'm Fany, a frontend  developer, interested in programming since 2015💭</div>  
   
 <br>
-**🌱 I’m currently learning React and Python**  
+🌱 I’m currently learning React and Python  
   
 
-**❓ Ask me about anything related to books, stoicism**  
+❓ Ask me about anything related to books, stoicism
   
 
 <br/>  
