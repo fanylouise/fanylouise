@@ -1,16 +1,16 @@
-<hr>
-<h1 align='center'>Hello, Welcome 🐣<h1> 
-<hr>
-<div align="center">I'm Fany, a frontend  developer, interested in programming since 2015💭</div>  
-  
-<br>
-🌱 I’m currently learning React and Python  
+
+<h1 align='center'>Yo, Welcome 🐣<h1> 
+
+## 🐥 I'm Fany Louise, a frontend  developer, interested in programming since 2015💭  
   
 
-❓ Ask me about anything related to books, stoicism
+  
+## 🌱 I’m currently learning React and Python  
   
 
-<br/>  
+## ❓ Ask me about anything related to books, stoicism
+  
+
 
 
 ## My Skill Set  
@@ -59,6 +59,3 @@
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=22ifeezucijuktwej3lsre6dq&cover_image=true&theme=default&show_offline=false&bar_color_cover=false"  height='250px' width='200'/></div>
-<br />
-<hr>
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
