@@ -1,14 +1,11 @@
 
 <h1 align='center'>Yo, Welcome 🐣<h1> 
 
-## 🐥 I'm Fany, a frontend  developer, interested in programming since 2015💭  
-  
-
+## 🐥 Frontend  developer 
   
 ## 🌱 I’m currently learning React and Python  
-  
-
-## ❓ Ask me about anything related to books, stoicism
+<!--   
+## ❓ Ask me about anything related to books, stoicism -->
   
 
 
