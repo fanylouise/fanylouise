@@ -28,7 +28,7 @@
 </td>
 </table>
 <br/>  
-
+<a href="https://wakatime.com/@47c031f8-553d-45d3-acd0-00373b080e1f"><img src="https://wakatime.com/badge/user/47c031f8-553d-45d3-acd0-00373b080e1f.svg" alt="Total time coded since Jul 2 2022" /></a>
 
 ## Connect with me  
 <div align="center">
