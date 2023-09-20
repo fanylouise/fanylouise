@@ -3,12 +3,7 @@
 
 ## 🐥 Frontend  developer 
   
-## 🌱 I’m currently learning React and Python  
-<!--   
-## ❓ Ask me about anything related to books, stoicism -->
-  
-
-
+## 🌱 Always learning
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -35,18 +30,10 @@
 <a href="https://linkedin.com/in/fanylouise" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/fany_louise" target="_blank">
+<a href="https://instagram.com/fanylouise.dev" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
-
-<br/>  
-
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=fanylouise&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=22ifeezucijuktwej3lsre6dq&cover_image=true&theme=default&show_offline=false&bar_color_cover=false"  height='250px' width='200'/></div>
