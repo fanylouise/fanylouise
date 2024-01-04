@@ -1,9 +1,9 @@
 
 <h1 align='center'>Yo, Welcome 🐣<h1> 
 
-## 🐥 Frontend  developer 
+### 🐥 Frontend  developer 
   
-## 🌱 Always learning
+### 🌱 Always learning <a href="https://wakatime.com/@47c031f8-553d-45d3-acd0-00373b080e1f"><img src="https://wakatime.com/badge/user/47c031f8-553d-45d3-acd0-00373b080e1f.svg" alt="Total time coded since Jul 2 2022" /></a>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -22,11 +22,10 @@
 
 </td>
 </table>
-<br/>  
-<a href="https://wakatime.com/@47c031f8-553d-45d3-acd0-00373b080e1f"><img src="https://wakatime.com/badge/user/47c031f8-553d-45d3-acd0-00373b080e1f.svg" alt="Total time coded since Jul 2 2022" /></a>
 
 ## Connect with me  
 <div align="center">
+  
 <a href="https://linkedin.com/in/fanylouise" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -34,6 +33,3 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=fanylouise&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
